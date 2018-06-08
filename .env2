@@ -1,0 +1,5 @@
+NGINX_HOST=localhost
+
+MYSQL_HOST=dbslave
+MYSQL_ROOT_USER=root
+MYSQL_ROOT_PASSWORD=root
